@@ -3,3 +3,7 @@
 !.python-version
 __pycache__/
 large_dataset.bin
+target/
+dbt_packages/
+logs/
+*.duckdb
